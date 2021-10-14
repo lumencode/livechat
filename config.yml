@@ -1,0 +1,13 @@
+---
+server:
+    addr: :8080
+postgresql:
+    host: localhost
+    user: muhammad
+    password: math
+    port: 5432
+    database: livechat
+    sslmode: disable
+    timezone: Asia/Tashkent
+redis:
+    auth: helloworld
